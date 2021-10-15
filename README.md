@@ -1,0 +1,3 @@
+本ブランチはlocalhostでバックエンド側のみの件数を想定したブランチです。
+仮想環境使用する場合は、"feature/vendingMachine_withGuide_for_virtualEnvironment" を使用してください。
+

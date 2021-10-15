@@ -1,0 +1,62 @@
+.vagrant
+
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+pkg/
+
+# Berkshelf
+Berksfile.lock
+
+
+# Bundler
+Gemfile.lock
+bin/*
+.bundle/*
+target/
+
+.gradle
+
+.kitchen/
+.kitchen.local.yml
+
+.DS_Store
+.idea
+.classpath
+.mvn
+.project
+.jsdtscope
+.settings
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+# Tomcat
+catalina.home_IS_UNDEFINED/
+
+# Eclipse
+.apt_generated/

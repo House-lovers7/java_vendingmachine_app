@@ -1,0 +1,3 @@
+SELECT /*%expand*/*
+FROM RACK RK
+ORDER BY RK.RACK_NO
